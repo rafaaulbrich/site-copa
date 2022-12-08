@@ -30,3 +30,20 @@ h4{
     width: 500px;
     margin-left: 700px;
 }
+.img-noticias{
+    width: 300px;
+    height: 250px;
+}
+.ultimas-noticias{
+    border: 2px solid #731739;
+    border-radius: 5px;
+}
+.ultimas-noticias > img, .ultimas-noticias > h3{
+    display: inline;
+    margin-left: 20px; 
+}
+.conteudo{
+    margin-top: 70px;
+}
+
+
